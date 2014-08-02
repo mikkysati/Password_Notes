@@ -37,7 +37,6 @@ public class ListActivity extends FragmentActivity {
 	public void onStop() {
 		super.onStop();
 		// closing the activity if screen is locked 
-		// importing projects to android studio
 		finish();
 		
 	}
